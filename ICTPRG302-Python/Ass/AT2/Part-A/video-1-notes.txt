@@ -3,4 +3,43 @@ and ask a question for clarification about that particular part.
 
 
 -repilicate worlde prototype.
--
+-CLARIFYING QUESTIONS - confirming known data - 
+
+- noot neccessarily additional info  rewquired 
+
+Words are us - New York Times version
+NOT WORRIED ABOUT USER INTERFACE AT THIS TIME 
+
+- media company 
+
+- AIM TO BUILD ENGAGEMENT ONLINE 
+
+- Word Based Games - what kind of words? Wordle ? assume you are not aware of this software 
+
+- What is the projected qautnitiy of users for this (item) ? 
+
+- Is this expected quantity of users going to be based off the success wordle app's oprewvious
+ user data (3000,000 over two months) 
+
+- Confirming questions
+
+- create replica of the Wordle game as a prototype? 
+
+- This prototype will be more than just a user interface? As it will be providing statistics 
+and data on the user expeirence, 
+game logistics and other required developer information that will assist in thye 
+ongoing creation and implementation of another version of this game/software? 
+
+-  What metrics, outcomes and other data points will you be wanting to achieve or highlight 
+to determine whether you  will 
+proceed with a market-open model/replica of this software?
+
+- Whats margins of statistical significance do you want to be highlighted and idedntified 
+by the software  to assist in research evaluation?
+
+- New York Times version, why is this the best version? What modifications and delivery/user 
+interface differences are present in this model, 
+as compared to other replica's available on the market? 
+
+- Are there other market available replicas (outside of the New York Times model) that have 
+different parts or aspects that the devloper would like integrated into their prototype?
